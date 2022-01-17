@@ -13,7 +13,7 @@ import multiprocessing
 import subprocess
 from itertools import chain
 from collections import OrderedDict
-
+import math
 
 def split_and_save(spec, pow=1.0, state = "Train", channels = 1):
     """

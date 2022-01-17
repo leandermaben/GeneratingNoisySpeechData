@@ -4,6 +4,7 @@
 node_modules/
 .DS_Store
 debug*
+datasets/AudioData_train
 datasets/AudioData
 checkpoints/
 results/
